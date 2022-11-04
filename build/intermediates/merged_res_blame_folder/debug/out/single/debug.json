@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\layout_activity_notes.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\drawable__bb99f8c165553ddfa84c7682db01685.jpg.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\drawable\\_bb99f8c165553ddfa84c7682db01685.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\layout_activity_doctor.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\layout\\activity_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\layout_activity_viewappoinments.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\layout\\activity_viewappoinments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\layout_activity_viewnote.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\layout\\activity_viewnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.helthcarehospital-merged_res-33:/layout_activity_notes.xml.flat",
+        "source": "com.example.helthcarehospital-main-35:/layout/activity_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\layout_activity_updatenote.xml.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\layout\\activity_updatenote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-merged_res-33:\\drawable_whatsapp_image_2022_10_30_at_02_30_41.jpeg.flat",
+        "source": "C:\\Users\\Hasindu\\.gradle\\daemon\\7.3.3\\com.example.helthcarehospital-main-35:\\drawable\\whatsapp_image_2022_10_30_at_02_30_41.jpeg"
+    }
+]

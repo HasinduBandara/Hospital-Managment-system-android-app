@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.helthcarehospital"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+14-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:22-64
+15
+16    <application
+16-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:5:5-33:19
+17        android:allowBackup="true"
+17-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] C:\Users\Hasindu\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:7:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:8:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:9:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.MyApplication" >
+25-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:11:9-51
+26        <activity
+26-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:12:9-14:40
+27            android:name="com.example.helthcarehospital.viewnote"
+27-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:13:13-37
+28            android:exported="false" />
+28-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:14:13-37
+29        <activity
+29-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:15:9-17:40
+30            android:name="com.example.helthcarehospital.updatenote"
+30-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:16:13-39
+31            android:exported="false" />
+31-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:17:13-37
+32        <activity
+32-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:18:9-20:40
+33            android:name="com.example.helthcarehospital.notes"
+33-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:19:13-34
+34            android:exported="false" />
+34-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:20:13-37
+35        <activity
+35-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:21:9-23:40
+36            android:name="com.example.helthcarehospital.viewappoinments"
+36-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:22:13-44
+37            android:exported="false" />
+37-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:23:13-37
+38        <activity
+38-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:24:9-32:20
+39            android:name="com.example.helthcarehospital.Doctor"
+39-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:25:13-35
+40            android:exported="true" >
+40-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:26:13-36
+41            <intent-filter>
+41-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:27:13-31:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:28:17-69
+42-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:28:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:30:17-77
+44-->C:\Users\Hasindu\AndroidStudioProjects\MyApplication\helthcarehospital\src\main\AndroidManifest.xml:30:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <service
+48-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+49            android:name="com.google.firebase.components.ComponentDiscoveryService"
+49-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:29:13-84
+50            android:directBootAware="true"
+50-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+51            android:exported="false" >
+51-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:30:13-37
+52            <meta-data
+52-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+53                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+53-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+54                android:value="com.google.firebase.components.ComponentRegistrar" />
+54-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\28584b5c06d7b8af10473f91b1185462\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+55        </service>
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hasindu\.gradle\caches\transforms-3\0cd99555d27463a2ab32416f6c8a98c9\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hasindu\.gradle\caches\transforms-3\0cd99555d27463a2ab32416f6c8a98c9\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hasindu\.gradle\caches\transforms-3\0cd99555d27463a2ab32416f6c8a98c9\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hasindu\.gradle\caches\transforms-3\0cd99555d27463a2ab32416f6c8a98c9\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+61
+62        <provider
+62-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+63            android:name="com.google.firebase.provider.FirebaseInitProvider"
+63-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+64            android:authorities="com.example.helthcarehospital.firebaseinitprovider"
+64-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+65            android:directBootAware="true"
+65-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+66            android:exported="false"
+66-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+67            android:initOrder="100" />
+67-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\0099d96858db8690fc2e2f0943f034cb\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+68
+69        <meta-data
+69-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\db158ada44b8c3324bd3d2c2696cc1d6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+70            android:name="com.google.android.gms.version"
+70-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\db158ada44b8c3324bd3d2c2696cc1d6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+71            android:value="@integer/google_play_services_version" />
+71-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hasindu\.gradle\caches\transforms-3\db158ada44b8c3324bd3d2c2696cc1d6\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+72
+73        <provider
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+75            android:authorities="com.example.helthcarehospital.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hasindu\.gradle\caches\transforms-3\cdef46822f6e7536bfa3cc53ebb94f12\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hasindu\.gradle\caches\transforms-3\2809981fd2531c82247675d36f043123\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hasindu\.gradle\caches\transforms-3\2809981fd2531c82247675d36f043123\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hasindu\.gradle\caches\transforms-3\2809981fd2531c82247675d36f043123\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+83        </provider>
+84    </application>
+85
+86</manifest>
