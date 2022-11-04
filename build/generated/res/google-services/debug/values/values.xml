@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">828917477951-tkist7e35ojfgdn22hchk1djp9qb3cht.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://helthcare-4d127-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">828917477951</string>
+    <string name="google_api_key" translatable="false">AIzaSyAI2sLIvctva_R0P2rKVyRurxJF8CX7wpU</string>
+    <string name="google_app_id" translatable="false">1:828917477951:android:ee881185d568d34e43fe8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAI2sLIvctva_R0P2rKVyRurxJF8CX7wpU</string>
+    <string name="google_storage_bucket" translatable="false">helthcare-4d127.appspot.com</string>
+    <string name="project_id" translatable="false">helthcare-4d127</string>
+</resources>
