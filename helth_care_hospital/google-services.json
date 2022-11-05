@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828917477951",
+    "firebase_url": "https://helthcare-4d127-default-rtdb.firebaseio.com",
+    "project_id": "helthcare-4d127",
+    "storage_bucket": "helthcare-4d127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828917477951:android:ee881185d568d34e43fe8a",
+        "android_client_info": {
+          "package_name": "com.example.helthcarehospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828917477951-tkist7e35ojfgdn22hchk1djp9qb3cht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2sLIvctva_R0P2rKVyRurxJF8CX7wpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828917477951-tkist7e35ojfgdn22hchk1djp9qb3cht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
