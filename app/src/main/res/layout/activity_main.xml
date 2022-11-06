@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:orientation="vertical"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="115dp"
+            android:layout_height="124dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="240dp"
+            android:layout_height="80dp"
+            android:layout_margin="50dp"
+            android:layout_marginTop="100dp"
+            android:backgroundTint="#2196F3"
+            android:backgroundTintMode="add"
+            android:gravity="center"
+            android:onClick="addDoctor"
+            android:text="@string/doctor_btn" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="240dp"
+            android:layout_height="80dp"
+            android:layout_margin="50dp"
+            android:backgroundTint="#2196F3"
+            android:backgroundTintMode="add"
+            android:gravity="center"
+            android:onClick="AddAttendent"
+            android:text="@string/attendent_btn" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="240dp"
+            android:layout_height="80dp"
+            android:layout_marginHorizontal="50dp"
+            android:layout_marginTop="50dp"
+            android:backgroundTint="#2196F3"
+            android:backgroundTintMode="add"
+            android:gravity="center"
+            android:onClick="AddEmployee"
+            android:text="@string/employee_btn" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="viewAll"
+            android:text="View" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
