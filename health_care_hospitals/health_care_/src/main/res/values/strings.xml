@@ -1,0 +1,61 @@
+<resources>
+
+    //Home1
+    <string name="app_name">Health Care</string>
+    <string name="HomeT"> You Are Welcome To Health Care Hospitails </string>
+    <string name="HomeT2"> We care for and improve the quality of human life, through the provision of ethical healthcare solutions together.</string>
+    <string name="HoF1">SIGN IN</string>
+    <string name="HoF2">DOCTORES</string>
+
+    //Home2
+    <string name="TextH">Sign In</string>
+    <string name="TextH2">Welcome to Health Care System</string>
+    <string name="MailH">Email</string>
+    <string name="PassH">Passwoard</string>
+    <string name="Hb1">Sign In</string>
+    <string name="TextH3">Forgot Password ?</string>
+    <string name="Hb2">CREAT ACCOUNT</string>
+    <string name="TextH4">If you don\'t have an account</string>
+
+    //Account
+    <string name="text1">Create Account</string>
+    <string name="acc1">Name : </string>
+    <string name="acc2">Mobile Number : </string>
+    <string name="acc4">Address : </string>
+    <string name="acc5">Email</string>
+    <string name="acc6">Password</string>
+    <string name="acc7">Confirm Password</string>
+    <string name="check1"> </string>
+    <string name="checkT">I agree to the Terms of Services and Pricy Policy.</string>
+    <string name="accbt">CONFIRM</string>
+
+    //MyAcc
+
+    <string name="Mac1">My Account</string>
+    <string name="Macc2">Thilina Bandara</string>
+    <string name="Macc3">0711234567</string>
+    <string name="Macc4">Main Road,Kandy</string>
+    <string name="Macc5">thilina99@gmail.com</string>
+    <string name="Bt1">Update</string>
+    <string name="Bt2">Delete</string>
+    <string name="Bt3">Done</string>
+    <string name="UpT1">Update</string>
+
+    //Delete
+
+    <string name="Bup1">Update</string>
+    <string name="Td1">Delete</string>
+    <string name="D1">Name</string>
+    <string name="D2">Email</string>
+    <string name="D3">Password</string>
+    <string name="BD1">Delete</string>
+
+
+    //Update
+
+    <string name="T1">Name</string>
+    <string name="T2">Mobile Number</string>
+    <string name="T3">Address</string>
+    <string name="T4">Email</string>
+    <string name="T5">Password</string>
+</resources>
